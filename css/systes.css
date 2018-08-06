@@ -13,3 +13,15 @@ p {
 ul {
   line-height: 40px;
 }
+.intro{
+  font-style: italic;
+}
+.Author{
+  color: red;
+}
+p.Author{
+  font-size: 12px;
+}
+img{
+  float: left;
+}
